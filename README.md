@@ -1,4 +1,4 @@
-# Using IoT Core gateways with a Raspberry Pi
+# Connect Raspberry Pi to Google Cloud IoT
 
 ## Author
  GitHub | Name | Email 
