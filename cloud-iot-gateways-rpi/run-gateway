@@ -17,7 +17,7 @@
 python3 ./cloudiot_mqtt_gateway.py \
   --registry_id=my-registry \
   --gateway_id=my-gateway \
-  --cloud_region=asia-east1 \
+  --cloud_region=us-central1 \
   --project_id=$GOOGLE_CLOUD_PROJECT \
   --private_key_file=rsa_private.pem \
   --algorithm=RS256 \

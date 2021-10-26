@@ -21,12 +21,12 @@ import RPi.GPIO as GPIO
 from colors import bcolors
 
 
-LED_IOPIN = 18
+LED_IOPIN = 14
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 GPIO.setup(LED_IOPIN, GPIO.OUT)
 
-ADDR = '192.168.50.56'
+ADDR = ''
 PORT = 10000
 # Create a UDP socket
 client_sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
