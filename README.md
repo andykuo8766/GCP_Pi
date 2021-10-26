@@ -10,3 +10,6 @@
 ## Google Cloud IoT Core
 ![image](https://github.com/andykuo8766/GCP_Pi/blob/main/Pictures/Cloud_IoT.gif)
 
+
+## Reference
+* [Google Cloud Community](https://github.com/GoogleCloudPlatform/community)
