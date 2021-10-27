@@ -5,6 +5,12 @@
  :-----------: | :---: | :---: 
  `andykuo8766` | `Andy Kuo` | andykuo8766@gapp.nthu.edu.tw 
  
+## Google Cloud Platform
+![image](https://github.com/andykuo8766/GCP_Pi/blob/main/Pictures/GCP.png)
+
+## Google Cloud IoT Core
+![image](https://github.com/andykuo8766/GCP_Pi/blob/main/Pictures/Cloud_IoT.gif)
+
 ## Assignment
 
 * Publishing telemetry events through the gateway
@@ -19,14 +25,6 @@
     * The report filename must be "< Student_ID >_Lab_4.docx".
 
 If you encounter any problems during the experiment, feel free to contact TA.
-
-
-## Google Cloud Platform
-![image](https://github.com/andykuo8766/GCP_Pi/blob/main/Pictures/GCP.png)
-
-## Google Cloud IoT Core
-![image](https://github.com/andykuo8766/GCP_Pi/blob/main/Pictures/Cloud_IoT.gif)
-
 
 ## Reference
 * [Google Cloud Community](https://github.com/GoogleCloudPlatform/community)
