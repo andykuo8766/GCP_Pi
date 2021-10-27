@@ -13,3 +13,4 @@
 
 ## Reference
 * [Google Cloud Community](https://github.com/GoogleCloudPlatform/community)
+* [Google Community tutorials](https://cloud.google.com/community/tutorials/cloud-iot-gateways-rpi)
