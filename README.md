@@ -19,7 +19,6 @@
     * The report filename must be "< Student_ID >_Lab_4.docx".
 
 If you encounter any problems during the experiment, feel free to contact TA.
-andy8766kuo@gmail.com
 
 
 ## Google Cloud Platform
